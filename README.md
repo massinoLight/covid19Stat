@@ -1,5 +1,5 @@
-# LinearRegression
-This code in reference of my youtube tutorial about how to deploy flask app on aws Elastic beanstalk
+# Covid19 Statistique between contry 
 
-Youtube link
-https://youtu.be/xeliVt9mZrM
+
+link
+http://amassinnacerddinecovid19stat-env.eba-juqtw4pt.us-east-2.elasticbeanstalk.com/
